@@ -13,7 +13,7 @@ Ashburn, VA · Class of 2028
 
 ---
 
-I build data-driven tools and object-oriented systems. Currently focused on software development and data engineering — looking for Summer 2026 internships.
+ML Engineering Intern at Kashmir World Foundation, deploying bioacoustics AI systems for rainforest wildlife conservation. I build data-driven tools and production-ready systems. Seeking fall 2026 co-ops and internships in SWE, data engineering, or AI/ML in the DC/NoVA area.
 
 ---
 
@@ -22,6 +22,7 @@ I build data-driven tools and object-oriented systems. Currently focused on soft
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
